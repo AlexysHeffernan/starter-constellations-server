@@ -104,6 +104,20 @@
       "starsWithPlanets": 3,
       "quadrant": "SQ1",
       "id": "iIxDvwZ"
+    },
+    {
+      "name": "Ara",
+      "meaning": "Altar",
+      "starsWithPlanets": 7,
+      "quadrant": "SQ3",
+      "id": "YQ4XnGC"
+    },
+    {
+      "name": "Ara",
+      "meaning": "Altar",
+      "starsWithPlanets": 7,
+      "quadrant": "SQ3",
+      "id": "lDYJCbJ"
     }
   ]
 }
